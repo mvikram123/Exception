@@ -18,3 +18,4 @@ public class Main {
         }
     }
 }
+// output- Arithmetic exception in first catch block
